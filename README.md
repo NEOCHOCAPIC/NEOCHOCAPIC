@@ -57,8 +57,3 @@
   <a/>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/NEOCHOCAPIC/NEOCHOCAPIC/output/snake.svg" alt="Snake animation" />
-
-###
