@@ -52,7 +52,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+    <img src="https://skillicons.dev/icons?i=ts" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
 </div>
@@ -60,8 +60,6 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NEOCHOCAPIC/NEOCHOCAPIC/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NEOCHOCAPIC/NEOCHOCAPIC/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NEOCHOCAPIC/NEOCHOCAPIC/output/pacman-contribution-graph.svg">
 </picture>
 
