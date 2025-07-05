@@ -53,8 +53,9 @@
     <img src="https://skillicons.dev/icons?i=ts" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-   <img src="https://skillicons.dev/icons?i=astro" height="40" alt="nodejs logo"  />
   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=astro" height="40" alt="nodejs logo"  />
+  
 </div>
 
 
