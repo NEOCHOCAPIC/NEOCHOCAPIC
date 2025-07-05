@@ -58,6 +58,9 @@
 </div>
 
 ###
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NEOCHOCAPIC&theme=dracula" alt="GitHub Activity Graph" />
+</div>
 
 <picture>
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NEOCHOCAPIC/NEOCHOCAPIC/output/pacman-contribution-graph.svg">
