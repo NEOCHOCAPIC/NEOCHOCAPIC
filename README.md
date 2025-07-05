@@ -32,8 +32,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
-    <img src="https://skillicons.dev/icons?i=astro" height="40" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
@@ -55,15 +53,8 @@
     <img src="https://skillicons.dev/icons?i=ts" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+   <img src="https://skillicons.dev/icons?i=astro" height="40" alt="nodejs logo"  />
+  <img width="12" />
 </div>
 
-###
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NEOCHOCAPIC&theme=dracula" alt="GitHub Activity Graph" />
-</div>
 
-<picture>
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NEOCHOCAPIC/NEOCHOCAPIC/output/pacman-contribution-graph.svg">
-</picture>
-
-###
