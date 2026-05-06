@@ -3,8 +3,14 @@
 # 👾 Hey, soy Juan Santibañez
 
 ### `< Desarrollador Full Stack en formación />`
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+%2B+APIs;Automatización+%26+IA;Siempre+construyendo+cosas)
 
 *Construyo cosas serias. Y también clono Crunchyroll por diversión.*
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/neochocapic/neochocapic/main/meme.webp" width="300"/>
+</div>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-neochocapic.dev-6c63ff?style=for-the-badge)](https://neochocapic.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Santibañez-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/santibanez-juan)
@@ -36,13 +42,11 @@ Pero también me gusta hacer proyectos por pura diversión  porque el mejor apre
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neochocapic/neochocapic/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neochocapic/neochocapic/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/neochocapic/neochocapic/output/pacman-contribution-graph.svg">
-</picture>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=neochocapic&theme=tokyo-night&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=neochocapic&theme=tokyonight&hide_border=true)
+
+
 
 </div>
 
