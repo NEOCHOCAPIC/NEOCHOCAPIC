@@ -28,25 +28,25 @@ const juan = {
 ```
 
 Me apasiona diseñar **arquitecturas limpias que escalen** y resolver problemas reales con código.  
-Pero también me gusta hacer proyectos por pura diversión — porque el mejor aprendizaje viene de construir cosas que te emocionan.
+Pero también me gusta hacer proyectos por pura diversión  porque el mejor aprendizaje viene de construir cosas que te emocionan.
 
 ---
 
-## 🚀 Proyectos destacados
+## 📊 GitHub Stats
 
-### 🤖 [PurplyBot](https://neochocapic.dev/) — *SaaS Conversacional con IA*
-> Plataforma multi-tenant con RAG, handoff humano en tiempo real, widget embebible y soporte WhatsApp. 3 apps desacopladas con arquitectura extensible.
+<div align="center">
 
-`Node.js` `Next.js` `Supabase` `TypeScript`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neochocapic/neochocapic/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neochocapic/neochocapic/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/neochocapic/neochocapic/output/pacman-contribution-graph.svg">
+</picture>
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=neochocapic&theme=tokyonight&hide_border=true)
 
-### 📐 [MathQuest](https://neochocapic.dev/) — *EdTech Gamificada (Tesis)*
-> SaaS educativo con práctica adaptativa IA, gameplay estilo Kahoot, economía de MathCoins y analítica docente con alertas de riesgo.
+</div>
 
-`Next.js` `React` `Supabase` `TypeScript`
 
----
 
 ### 🎌 Proyectos que hice por amor al arte
 
@@ -86,47 +86,7 @@ Pero también me gusta hacer proyectos por pura diversión — porque el mejor a
 
 </div>
 
----
 
-## 📊 GitHub Stats
 
-<div align="center">
 
-![Juan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neochocapic&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neochocapic&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=neochocapic&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 💼 Experiencia
-
-**🔧 WOM Chile** — Práctica Obras Eléctricas *(Ene – Jun 2025)*
-> Base de datos de inventario de torres eléctricas con web scraping · Interfaz de mapas interactiva · Automatización de flujos operativos
-
-**📊 Gux ERP SPA** — Práctica Célula ERP *(Oct – Dic 2025)*
-> Plantillas XML en NetSuite · Automatización de reportes · Suitelet analítico · Dashboard de SLAs en Looker Studio
-
----
-
-## 🔥 Lo que me tiene obsesionado ahora
-
-```
-🤖  IA Agéntica          ████████████░░░░  aprendiendo
-🔗  Orquestación agentes ███████░░░░░░░░░  explorando  
-☁️  AWS / Cloud          █████░░░░░░░░░░░  en la mira
-🐳  Docker               ████████░░░░░░░░  practicando
-```
-
----
-
-<div align="center">
-
-*"El mejor código es el que resuelve el problema de fondo, no el que usa el framework de moda."*
-
-**⭐ Si algo de lo que ves te sirve, dale una estrella. Y si quieres hablar de un proyecto, escríbeme.**
-
-</div>
