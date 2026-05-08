@@ -2,7 +2,7 @@
 
 # 👾 Hey, soy Juan Santibañez
 
-### `< Desarrollador Full Stack en formación />`
+### `< Backend & AI Engineer/>`
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+%2B+APIs;Automatización+%26+IA;Siempre+construyendo+cosas)
 
 *Construyo cosas serias. Y también clono Crunchyroll por diversión.*
